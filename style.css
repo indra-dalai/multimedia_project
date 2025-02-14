@@ -1,19 +1,19 @@
 body {
-    padding-left: 15%;
-    padding-right: 15%;
+    padding-left: 25%;
+    padding-right: 25%;
     background-color: #f0f0f0;;
   }
 
   .editable-block {
-    background-color: #D6BB6E; /* Lightly transparent white */
+    background-color: #D6BB6E; /* used chatgpt for help */
     padding: 10px;
     margin-top: 20px;
     margin-bottom: 20px;
-    color: #000000; /* Matches your text color */
-    min-height: 100px; /* Ensures enough space */
+    color: #000000;  
+    min-height: 100px;  
     width: 100%;
     box-sizing: border-box;
-    resize: vertical; /* Allows resizing */
+    resize: vertical;  
 }
   
   h1 {
@@ -57,7 +57,6 @@ iframe-container {
 }
 
 
-
 .cutline {
     font-size: 15px;
     margin-top: 0px;
@@ -79,8 +78,8 @@ iframe-container {
     text-align: center;
   }
   
-  /* responsive design */
-  #content {
+   /* responsive design */
+   #content {
     width: 50%;
     margin: auto;
   }
@@ -90,6 +89,4 @@ iframe-container {
       width: 100%;
     }
   }
-
-
  
